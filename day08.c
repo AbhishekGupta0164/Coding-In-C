@@ -1,5 +1,5 @@
 
-//  kadanes algorithm to find max subarray sum  
+//  kadanes algorithm to find max subarray  sum  
 #include<stdio.h>
 int main(){
     int n;
