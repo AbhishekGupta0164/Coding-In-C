@@ -1,4 +1,4 @@
-// check if array is sorted and rotated
+// check if array is sorted and  rotated
 #include<stdio.h>
 
 int main() {
