@@ -1,5 +1,5 @@
 #include<stdio.h>
- 
+   
 // find union and Intersection between two array 
 
 int isPresent(int arr[], int n, int x) {
