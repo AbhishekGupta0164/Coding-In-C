@@ -1,5 +1,5 @@
 
-//  cyclically rotate an array by one  
+//  cyclically rotate an array by  one  
 #include <stdio.h>
 
 int main() {
