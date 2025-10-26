@@ -1,4 +1,4 @@
-// find all pair with a given sum in an array
+// find all pair with a given sum in an  array
 #include <stdio.h>
 
 int main()
