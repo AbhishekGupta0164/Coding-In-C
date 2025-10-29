@@ -2,7 +2,7 @@
 //missing number in array upto n
 
 #include <stdio.h>
-
+ 
 int main() {
     int n, sum = 0, total;
     
