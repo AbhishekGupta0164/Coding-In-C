@@ -1,5 +1,5 @@
 #include<stdio.h>
-// check for palindrome
+// check for  palindrome 
 
 int main(){
     int n;
