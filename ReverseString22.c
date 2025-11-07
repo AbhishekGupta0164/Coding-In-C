@@ -1,5 +1,5 @@
 #include<stdio.h>
-// Reverse a string
+//  Reverse a string
 
 int main(){
 
