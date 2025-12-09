@@ -1,0 +1,1 @@
+//check if one string is subsequence of another

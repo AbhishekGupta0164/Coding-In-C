@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
     // check if two string are anagram or not
 
 int main() {
