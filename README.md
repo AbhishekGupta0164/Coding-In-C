@@ -1,4 +1,4 @@
-
+ #  This Repo Consist of 40 Practice Questions in C
 ## 👋 Hi, I'm Abhishek Gupta
 
 💻 I’m learning **C, C++ & DSA**, and exploring **Web Development**  
